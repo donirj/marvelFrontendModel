@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bigbox{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+
+.title0{
+    margin-left: 10px;
+
+}
+
+.title1{
+    font-size: 24px;
+}
+
+.title2{
+    color: #828282;
+    transform: translateY(-20px);
+
+}
+
+.herobox{
+    width: 647px;
+    height: 111px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #FFFFFF;
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.names{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.image1{
+    height: 71px;
+    width: 71px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.form1{
+    height: 34px;
+    width: 34px;
+    background: #E21818;
+    border-radius: 30px;
+    
+    
+}
+
+.form2{
+    height: 34px;
+    width: 34px;
+    background: #2D9CDB;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.form1 i {
+    color: #fff;
+}
+
+.form2 i {
+
+    color: #fff;
+   
+}

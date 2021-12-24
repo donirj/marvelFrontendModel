@@ -1,0 +1,41 @@
+.image0{
+    height: 112px;
+    width: 112px;
+    
+}
+
+.bigbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bigbox2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.newbox1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.description{
+    font-size: 18px;
+    text-align: center;
+    width: 647px;
+}
+
+.title1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title3{
+    text-align: center;
+    color: #828282;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
